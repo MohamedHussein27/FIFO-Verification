@@ -79,7 +79,7 @@ FIFO-Verification/
 │   └── FIFO_SVA.sv                       # SystemVerilog Assertions for the design
 │
 └── README.md                             # Project documentation
-
+ ```
 
 ## Getting Started
 
