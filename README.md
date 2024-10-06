@@ -1,7 +1,7 @@
 # Synchronous FIFO Verification
 
 <!-- Add your image here -->
-![Project Image](path/to/image.png)
+![Project Image]([path/to/image.png](https://github.com/MohamedHussein27/FIFO-Verification/blob/main/Doc/Synchronous%20FIFO%20Verification.pdf))
 
 ## Overview
 
