@@ -91,3 +91,8 @@ FIFO-Verification/
 1. Compile the design and testbench files using your simulator.
 2. Run the `FIFO_TEST` module to start the simulation.
 3. Check the simulation results and coverage report for 100% functional and code coverage.
+
+## Contact Me!
+- [Email](mailto:Mohamed_Hussein2100924@outlook.com)
+- [WhatsApp](https://wa.me/+2001097685797)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-hussein-274337231)
