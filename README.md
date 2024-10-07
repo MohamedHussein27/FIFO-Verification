@@ -35,7 +35,7 @@ This project involves the verification of a **Synchronous FIFO** design using Sy
 
 ## Verification Plan
 
-The detailed **Verification Plan** is included in the [Documentation](https://github.com/MohamedHussein27/FIFO-Verification/tree/main/Doc).
+The detailed **Verification Plan** is included in the [Documentation](https://github.com/MohamedHussein27/FIFO-Verification/blob/main/Doc/Synchronous%20FIFO%20Verification.pdf).
 
 ### Testbench Flow:
 
