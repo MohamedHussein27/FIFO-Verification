@@ -92,6 +92,12 @@ FIFO-Verification/
 2. Run the `FIFO_TEST` module to start the simulation.
 3. Check the simulation results and coverage report for 100% functional and code coverage.
 
+## Eng. Kareem Waseem
+- This is the 1st project of **Digital Verification using SystemVerilog and UVM Diploma (Version 6)** by Eng. **Kareem Waseem** (Digital Verification Team Lead at Si-Vision), I highly recommend this diploma for everyone interested or working in Digital Verification.
+- [Skills I gained from this diploma](https://www.linkedin.com/posts/mohamed-hussein-274337231_digitalverification-systemverilog-uvm-activity-7254440715164782592-xCBV?utm_source=share&utm_medium=member_desktop).
+- [Eng. Kareem's LinkedIn](https://www.linkedin.com/in/kareem-waseem/).
+- For updates check out the [facebook group](https://www.facebook.com/share/g/15EpEScjx3/).
+
 ## Contact Me!
 - [Email](mailto:Mohamed_Hussein2100924@outlook.com)
 - [WhatsApp](https://wa.me/+2001097685797)
